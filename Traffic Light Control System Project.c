@@ -1,4 +1,4 @@
- #define wait 300
+ #define wait 1000
  #define SEG1 PORTD.B0
  #define SEG2 PORTD.B1
  #define SEG3 PORTD.B2
